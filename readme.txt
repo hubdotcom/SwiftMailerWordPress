@@ -4,11 +4,11 @@ Tags: mail, swift mailer
 Requires at least: 3.0
 Tested up to: 3.5
 Stable tag: 4.3.0
-License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Network: true
 Author: Turn On Social
 Author URI: http://turnonsocial.com/
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 The Swift Mailer library and nothing more
 

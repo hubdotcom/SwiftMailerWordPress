@@ -19,7 +19,7 @@ Feedback welcomed! For feature requests or questions, create a thread on the sup
 == Installation ==
 Upload and activate. You can then use the Swift Mailer library within your code - swift_required.php is automatically included.
 
-Sample connect and send code (full documentation: http://swiftmailer.org/docs/sending.html)
+Sample connect and send code (full documentation available at: http://swiftmailer.org/docs/sending.html )
 `// Create the Transport
 $transport = Swift_SmtpTransport::newInstance('smtp.example.org', 25)
   ->setUsername('your username')
@@ -45,6 +45,9 @@ Upon activation, the Swift Mailer library is available to you throughout your co
 
 **Do you have sample code for sending email?**
 See the fantastic Swift Mailer documentation http://swiftmailer.org/docs/sending.html
+
+**I have a feature request or suggestion**
+Great! Please create a message in the Support forum https://wordpress.org/support/plugin/swift-mailer
 
 == Screenshots ==
 1. Sample code for application

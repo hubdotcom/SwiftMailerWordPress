@@ -1,5 +1,5 @@
 === Swift Mailer ===
-Contributors: Turn  On Social
+Contributors: Turn On Social
 Tags: mail, swift mailer
 Requires at least: 3.0
 Tested up to: 4.1.1
